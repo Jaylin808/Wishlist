@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [X] **User can see their list of items based on previously inputted items**
 
 ## Video Walkthrough
-
+![MyGif ](./Wishlist.gif)
 Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
